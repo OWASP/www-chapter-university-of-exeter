@@ -1,10 +1,10 @@
 ---
-title: Next_Event
+title: Past-Events
 layout:  null
 tab: true
 order: 1
-tags: next-event
+tags: past-event
 ---
 
-## Our Next Event
+## Our Past Events
 Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.

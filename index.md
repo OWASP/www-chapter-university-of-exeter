@@ -10,33 +10,27 @@ postal-code: EX4 4PY
 
 ---
 
-<div style='color:red;'>
+<div style='color:red;'></div>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
-
-## Welcome
+## Welcome to the OWASP University of Exeter Student Chapter
 Include some information here about your chapter
 
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+## Speaking at OWASP London Chapter Events
+#### Call For Speakers
+The call For Speakers is always open - if you would like to present a talk at future OWASP London Chapter events - please review and agree with the OWASP Speaker Agreement and submit your talk proposal here: https://www.papercall.io/owasp-london
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+## Next Meeting/Event(s)
+OWASP London Chapter meetings are posted on our MeetUp Page:
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+Please visit http://www.meetup.com/OWASP-London OWASP London MeetUp site for London Chapter event information.
+
+## Video Recordings of Past Events
+You can watch the recordings of talks presented at OWASP London events on our YouTube channel: https://www.youtube.com/OWASPLondon
+
+Please SUBSCRIBE to our YouTube channel to get notified when new videos get published.
+
+## Updates on Social Media and Mailing List
+Please follow OWASP UoE Student Chapter on /MeetUp/LinkedIN/Instagram and sign up to our mailing list to be notified about the upcoming OWASP University of Exeter events.
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
