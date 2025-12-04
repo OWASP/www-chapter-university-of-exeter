@@ -1,9 +1,9 @@
 ---
 title: Events
-layout:  null
+layout: null
 tab: true
 order: 1
-tags: next-events
+tags: university-of-exeter
 ---
 
 ## Our Next Events

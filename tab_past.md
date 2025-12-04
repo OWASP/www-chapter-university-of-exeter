@@ -1,9 +1,9 @@
 ---
 title: Past
-layout:  null
+layout: null
 tab: true
-order: 1
-tags: past-event
+order: 2
+tags: university-of-exeter
 ---
 
 ## Our Past Events
