@@ -7,4 +7,4 @@ tags: university-of-exeter
 ---
 
 ## Our Past Events
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Here are our past event, hosted by the OWASP UoE Student Chapter.

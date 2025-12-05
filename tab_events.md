@@ -7,4 +7,4 @@ tags: university-of-exeter
 ---
 
 ## Our Next Events
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+We post our next planned events and information about guest speekers here.
