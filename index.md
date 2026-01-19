@@ -38,10 +38,10 @@ Our long-term sponsors and collaborators enable us to host the best events possi
 <table cellpadding="10" cellspacing="0" border="0">
   <tr>
     <td>
-      <img src="/assets/images/computer_science_society.png" alt="Computer Science Society"/>
+      <img src="assets/images/computer_science_society.png" alt="Computer Science Society"/>
     </td>
     <td>
-      <img src="/assets/images/cyber_security_society.png" alt="Cyber Security Society"/>
+      <img src="assets/images/cyber_security_society.png" alt="Cyber Security Society"/>
     </td>
   </tr>
   <tr>
