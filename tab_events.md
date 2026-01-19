@@ -7,4 +7,4 @@ tags: university-of-exeter
 ---
 
 ## Our Next Events
-We post our next planned events and information about guest speekers here.
+We wil post our next planned events and information about guest speakers here.

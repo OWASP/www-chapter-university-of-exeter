@@ -43,7 +43,7 @@ Our long-term sponsors and collaborators enable us to host the best events possi
       </a>
     </td>
     <td style="background-color:#051D43;">
-      <a href="https://www.exetercybersecuritysociety.com">\
+      <a href="https://www.exetercybersecuritysociety.com">
         <img src="assets/images/cyber_security_society.png" alt="Cyber Security Society"/>
       </a>
     </td>
@@ -61,6 +61,6 @@ Our long-term sponsors and collaborators enable us to host the best events possi
 
 
 ## Event Sponsors
-These organisations have generously supported one of our events
+When organisations will have generously supported one of our events, they will be posted here
 
 
