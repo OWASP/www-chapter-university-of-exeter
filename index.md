@@ -18,7 +18,7 @@ We are a collection of current, past, and future students and professionals with
 ## Speaking at OWASP University of Exeter Student Chapter Events
 
 #### Call For Speakers
-The call For **Speakers** is always open - if you would like to present a talk at future OWASP UoE Chapter events - please review and agree with the OWASP Speaker Agreement and submit your talk proposal here: [Talk Proposal](https://www.papercall.io/owasp-london)
+The call For **Speakers** is always open - if you would like to present a talk at future OWASP UoE Chapter events - please review and agree with the OWASP Speaker Agreement and submit your talk proposal here: [Talk Proposal](https://forms.gle/ZB9YXZSapQVRtrjr7)
 
 ## Next Meeting/Event(s)
 OWASP **UoE Student Chapter** meetings are posted on our MeetUp Page:
@@ -32,4 +32,15 @@ Please SUBSCRIBE to our YouTube channel to get notified when new videos get publ
 
 ## Updates on Social Media and Mailing List
 Please follow OWASP UoE Student Chapter on MeetUp/Linkedin/Instagram and sign up to our mailing list to be notified about the upcoming OWASP University of Exeter events.
+
+## Chapter Sponsors and Collaborators
+Our long-term sponsors and collaborators enable us to host the best events possible and engage with incredibly motivated people :
+| ![Computer Science Society](/assets/images/computer_science_society.png) | ![Cyber Security Society](/assets/images/cyber_security_society.png) |
+| --- | --- |
+| **University of Exeter Computer Science Society** | **University of Exeter CyberSecurity Society** |
+
+
+## Event Sponsors
+These organisations have generously supported one of our events
+
 
