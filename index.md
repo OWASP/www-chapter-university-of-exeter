@@ -35,9 +35,25 @@ Please follow OWASP UoE Student Chapter on MeetUp/Linkedin/Instagram and sign up
 
 ## Chapter Sponsors and Collaborators
 Our long-term sponsors and collaborators enable us to host the best events possible and engage with incredibly motivated people :
-| ![Computer Science Society](/assets/images/computer_science_society.png) | ![Cyber Security Society](/assets/images/cyber_security_society.png) |
-| --- | --- |
-| **University of Exeter Computer Science Society** | **University of Exeter CyberSecurity Society** |
+<table cellpadding="10" cellspacing="0" border="0">
+  <tr>
+    <td>
+      <img src="/assets/images/computer_science_society.png" alt="Computer Science Society"/>
+    </td>
+    <td>
+      <img src="/assets/images/cyber_security_society.png" alt="Cyber Security Society"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>University of Exeter Computer Science Society</strong>
+    </td>
+    <td>
+      <strong>University of Exeter CyberSecurity Society</strong>
+    </td>
+  </tr>
+</table>
+
 
 
 ## Event Sponsors
