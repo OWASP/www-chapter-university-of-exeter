@@ -37,11 +37,11 @@ Please follow OWASP UoE Student Chapter on MeetUp/Linkedin/Instagram and sign up
 Our long-term sponsors and collaborators enable us to host the best events possible and engage with incredibly motivated people :
 <table cellpadding="10" cellspacing="0" border="0">
   <tr>
-    <td>
-      <img src="assets/images/computer_science_society.png" alt="Computer Science Society"/>
+    <td style="background-color:#000000;">
+      <a href="https://exeter-computer-science-society.github.io/excs-website/"><img src="assets/images/computer_science_society.png" alt="Computer Science Society"/>
     </td>
-    <td>
-      <img src="assets/images/cyber_security_society.png" alt="Cyber Security Society"/>
+    <td style="background-color:#051D43;">
+      <a href="https://www.exetercybersecuritysociety.com"><img src="assets/images/cyber_security_society.png" alt="Cyber Security Society"/>
     </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ Our long-term sponsors and collaborators enable us to host the best events possi
       <strong>University of Exeter Computer Science Society</strong>
     </td>
     <td>
-      <strong>University of Exeter CyberSecurity Society</strong>
+      <strong>University of Exeter Cyber Security Society</strong>
     </td>
   </tr>
 </table>
