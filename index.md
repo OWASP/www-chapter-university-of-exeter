@@ -38,10 +38,10 @@ Our long-term sponsors and collaborators enable us to host the best events possi
 <table cellpadding="10" cellspacing="0" border="0">
   <tr>
     <td>
-      <img src="assets/images/computer_science_society.png" alt="Computer Science Society"/>
+      <a href="https://exeter-computer-science-society.github.io/excs-website/"><img src="assets/images/computer_science_society.png" alt="Computer Science Society"/>
     </td>
     <td>
-      <img src="assets/images/cyber_security_society.png" alt="Cyber Security Society"/>
+      <a href="https://www.exetercybersecuritysociety.com"><img src="assets/images/cyber_security_society.png" alt="Cyber Security Society"/>
     </td>
   </tr>
   <tr>
